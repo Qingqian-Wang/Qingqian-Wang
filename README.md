@@ -1,3 +1,5 @@
+<div style="background-image: url('background.jpg'); padding: 20px;">
+
 ### Hi there 👋
 
 <!--
@@ -9,4 +11,8 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning computer security.
 - 👯 Here is my personal website. https://qingqian-wang.github.io/
 - 🤔  I am currently looking for a full-time job related to backend software development.
+
+</div>
+
+
 
